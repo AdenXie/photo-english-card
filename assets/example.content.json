@@ -1,0 +1,46 @@
+{
+  "photo": "your-photo.jpg",
+  "focus": [0.5, 0.55],
+  "palette": "ocean",
+  "title": ["rainy", "day", "desk"],
+  "subtitle_cn": "下雨天，窗边慢慢来",
+  "tags": ["everyday English", "IELTS speaking", "weather, mood & study routines"],
+  "vocabulary": [
+    { "en": "a window seat", "cn": "靠窗的座位", "crop": [0.5, 0.5, 0.7] },
+    { "en": "a hot latte", "cn": "热拿铁", "crop": [0.62, 0.66, 0.18] },
+    { "en": "latte art", "cn": "拿铁拉花", "crop": [0.62, 0.6, 0.1] },
+    { "en": "an open notebook", "cn": "摊开的笔记本", "crop": [0.32, 0.72, 0.24] },
+    { "en": "raindrops", "cn": "雨滴", "crop": [0.5, 0.2, 0.16] },
+    { "en": "a blurry street", "cn": "模糊的街景", "crop": [0.78, 0.24, 0.22] },
+    { "en": "soft daylight", "cn": "柔和的天光", "emoji": "🌤️" },
+    { "en": "a cosy corner", "cn": "舒适的角落", "emoji": "🪴" }
+  ],
+  "phrases": [
+    { "en": "settle in for the afternoon", "cn": "安顿下来待一下午" },
+    { "en": "wrap my hands around…", "cn": "双手捧着……" },
+    { "en": "take it slow", "cn": "慢慢来" },
+    { "en": "get into the zone", "cn": "进入状态" },
+    { "en": "a gloomy but calm day", "cn": "阴沉却安静的一天" },
+    { "en": "the perfect excuse to stay in", "cn": "待在室内的完美理由" },
+    { "en": "tick a few things off", "cn": "完成几件事" },
+    { "en": "a small daily ritual", "cn": "每天的小仪式" }
+  ],
+  "patterns": [
+    { "en": "Rainy days are the perfect excuse to stay in and read.", "cn": "下雨天正好是待在室内看书的理由。" },
+    { "en": "I find it easier to get into the zone by a window.", "cn": "我发现坐在窗边更容易进入状态。" },
+    { "en": "A hot drink makes a gloomy day feel a lot calmer.", "cn": "一杯热饮会让阴天显得平静很多。" },
+    { "en": "I usually settle in for the afternoon with a notebook.", "cn": "我通常带着笔记本在这里待一下午。" },
+    { "en": "It's a small daily ritual that helps me take it slow.", "cn": "这是让我慢下来的一个日常小仪式。" },
+    { "en": "If it weren't raining, I'd probably be out for a walk.", "cn": "如果没下雨，我大概会出去散步。" }
+  ],
+  "scene": {
+    "en": "This is a quiet window seat on a rainy afternoon. A hot latte with neat latte art sits next to an open notebook, while raindrops blur the street outside. The light is soft and grey, but the corner still feels warm and cosy — the kind of place where you could settle in, take it slow and tick a few things off your list.",
+    "cn": "这是雨天午后一个安静的靠窗座位。一杯拉花整齐的热拿铁放在摊开的笔记本旁，窗外的雨滴让街景变得模糊。光线柔和发灰，但这个角落依然温暖舒适——是那种可以安顿下来、慢慢来、顺手完成几件小事的地方。"
+  },
+  "prompts": [
+    { "q": "What do you like to do on a rainy day?", "hints": ["the perfect excuse to stay in", "take it slow", "settle in"] },
+    { "q": "Describe a place where you can focus well.", "hints": ["get into the zone", "a cosy corner", "by a window"] },
+    { "q": "Talk about a small daily ritual you enjoy.", "hints": ["a small daily ritual", "wrap my hands around", "tick a few things off"] }
+  ],
+  "tip": { "en": "Say each phrase out loud about your own day.", "cn": "学习提示：把每个短语套进你自己的一天说一遍。" }
+}

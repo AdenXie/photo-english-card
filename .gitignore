@@ -1,0 +1,6 @@
+*.png
+*.content.json
+!assets/example.content.json
+*.html
+!assets/template.html
+.DS_Store
